@@ -13,17 +13,17 @@ https://final-proj-front.vercel.app/home
 
 url =>> https://final-proj-front.vercel.app/admin-sign , 
 user =>> admin@gmail.com ,
-pass =>> 124578963
+pass =>> 124578963,
 
 
 //// For Teacher Login \\\\
 
 user =>> teacher@gmail.com , 
-pass =>> 124578963
+pass =>> 124578963,
 
 
 //// User Login \\\\
 
 user =>> user@gmail.com ,
-pass =>> 124578963
+pass =>> 124578963,
 
